@@ -1,1 +1,2 @@
 zhangjicmu/ubuntu20_ros:navigation_demo_unity
+nginx
